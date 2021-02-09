@@ -6,7 +6,7 @@
 
 
   - [x] 𝗞𝗲𝗿𝗮𝗻𝗴𝗸𝗮
-  <img align="center" src="https://github.com/memorezasabana/Intent_TravelApp/blob/master/AssetApp/Relative%20Layout.PNG">
+  <img align="center" src="https://github.com/memorezasabana/LinearLayout_TravelApp/blob/master/AssetApp/Relative%20Layout.png">
 
   - [x] 𝗛𝗮𝘀𝗶𝗹
-  <img align="center" src="https://github.com/memorezasabana/Intent_TravelApp/blob/master/AssetApp/gallery.jpg">
+  <img align="center" src="https://github.com/memorezasabana/LinearLayout_TravelApp/blob/master/AssetApp/gallery.png">
